@@ -1,0 +1,101 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConvertOneChainedExprToSafeNavigation" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssRedundantUnit" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberStepDefinitionParameter" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="78" name="Ruby" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="icon-skull_16" />
+            <item index="1" class="java.lang.String" itemvalue="icon" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="JSFileReferences" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="Rubocop" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyArgumentParentheses" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RubyCaseWithoutElseBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyClassMethodNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyClassModuleNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyClassVariableNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyConstantNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyConvertAllHashesInFileInspections" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="RubyDefParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyDeprecatedSyntaxInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RubyForLoopInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyGlobalVariableNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyInstanceMethodNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyInstanceVariableNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyInstanceVariableToStringInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RubyLiteralArrayInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyLocalVariableNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyMismatchedArgumentType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyNestedTernaryOperatorsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RubyNilAnalysis" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyParameterNamingConvention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyParenthesesAfterMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyParenthesesAroundConditionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyQuotedStringsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="RubyResolve" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="warnImplicitResults" value="false" />
+    </inspection_tool>
+    <inspection_tool class="RubyStringKeysInHashInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RubyThenInMultilineConditionalInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RubyTooManyInstanceVariablesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyTooManyMethodsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnlessWithElseInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RubyUnnecessaryReturnStatement" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnnecessaryReturnValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnnecessarySemicolon" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>

@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
+    json (2.6.3)
+    mini_mime (1.1.2)
+    multi_xml (0.6.0)
+    ruby-openai (3.0.3)
+      httparty (>= 0.18.1, < 0.22.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  json
+  ruby-openai
+
+BUNDLED WITH
+   2.3.26

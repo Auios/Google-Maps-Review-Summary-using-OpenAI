@@ -1,0 +1,38 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="AUTODETECT_INDENTS" value="false" />
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </value>
+    </option>
+    <Ruby>
+      <option name="INDENT_WHEN_CASES" value="true" />
+      <option name="FORCE_NEWLINES_AROUND_VISIBILITY_MODS" value="false" />
+    </Ruby>
+    <codeStyleSettings language="CSS">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="ruby">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="USE_RELATIVE_INDENTS" value="false" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
